@@ -12,4 +12,4 @@ You can check the deployed version via link below
 
 https://bank-app-cemmertsimsek.vercel.app/
 
-![](https://github.com/cemmertsimsek/bank-app/bank-app/blob/master/src/assets/bank-app.JPG)
+![](https://github.com/cemmertsimsek/bank-app/blob/master/bank-app/src/assets/bank-app.JPG)
