@@ -2,7 +2,7 @@
 
 This is a fictional, modern UI/UX bank concept web application called ***HooBank*** from a Figma [*Design*](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?t=4tuo78D1jRAQL4Sj-0). It contains;
 
-- Navbar | Landing Page with HQ images | Bussiness Stats
+Navbar | Landing Page with HQ images | Bussiness Stats
  Reusable Feature Sections | CTA Buttons | Testimonials | Clients | Footer |
 
 ##### Click the link to see full version of [deployed website.](https://bank-app-cemmertsimsek.vercel.app/)
