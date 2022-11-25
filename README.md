@@ -9,7 +9,7 @@ This is a fictional, modern UI/UX bank concept web application called ***HooBank
 https://bank-app-cemmertsimsek.vercel.app/
 
 
-![](https://github.com/cemmertsimsek/bank-app/blob/master/bank-app/src/assets/bank-app.JPG)
+![](bank-app/src/assets/bank-app.JPG)
 
 
 ## Aim of this project
@@ -41,4 +41,5 @@ Creating a Full **Responsive**, **Front-End**, **React** app while using and pra
 
 ## Visuals
 
-![](https://github.com/cemmertsimsek/bank-app/blob/master/bank-app/src/assets/bank-app-1.JPG) ![](https://github.com/cemmertsimsek/bank-app/blob/master/bank-app/src/assets/bank-app-2.JPG)
+[<img src="bank-app/src/assets/bank-app-1.JPG" width="400px"/>](bank-app/src/assets/bank-app-1.JPG) [<img src="bank-app/src/assets/bank-app-2.JPG" width="400px"/>](bank-app/src/assets/bank-app-2.JPG)
+
