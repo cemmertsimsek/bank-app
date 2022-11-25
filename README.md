@@ -6,11 +6,9 @@ This is a fictional, modern UI/UX bank concept web application called ***HooBank
  Reusable Feature Sections | CTA Buttons | Testimonials | Clients | Footer |
 
 ##### Click the link to see full version of [deployed website.](https://bank-app-cemmertsimsek.vercel.app/)
-https://bank-app-cemmertsimsek.vercel.app/
+Also you can click https://bank-app-cemmertsimsek.vercel.app/
 
-
-![](bank-app/src/assets/bank-app.JPG)
-
+[<img src="bank-app/src/assets/bank-app.JPG" />](https://bank-app-cemmertsimsek.vercel.app/)
 
 ## Aim of this project
 Creating a Full **Responsive**, **Front-End**, **React** app while using and practising 3th party tools **Tailwind.css** Also using **Vite** for the first time. 
