@@ -52,5 +52,6 @@ Creating a Full **Responsive**, **Front-End**, **React** app while using and pra
 
 ##### Click the link to see full version of [deployed website.](https://bank-app-cemmertsimsek.vercel.app/)
 
-</hr>
+<hr>
+
 Cem Mert Şimşek - 2022
