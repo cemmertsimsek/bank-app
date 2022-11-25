@@ -8,6 +8,10 @@ This is a fictional, modern UI/UX bank concept web application called ***HooBank
 ##### Click the link to see full version of [deployed website.](https://bank-app-cemmertsimsek.vercel.app/)
 https://bank-app-cemmertsimsek.vercel.app/
 
+
+![](https://github.com/cemmertsimsek/bank-app/blob/master/bank-app/src/assets/bank-app.JPG)
+
+
 ## Aim of this project
 Creating a Full **Responsive**, **Front-End**, **React** app while using and practising 3th party tools **Tailwind.css** Also using **Vite** for the first time. 
 
@@ -36,7 +40,5 @@ Creating a Full **Responsive**, **Front-End**, **React** app while using and pra
 
 
 ## Visuals
-
-![](https://github.com/cemmertsimsek/bank-app/blob/master/bank-app/src/assets/bank-app.JPG)
 
 
