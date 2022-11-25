@@ -38,17 +38,19 @@ Creating a Full **Responsive**, **Front-End**, **React** app while using and pra
 
 [<img src="bank-app/src/assets/bank-app-1.JPG" width="400px"/>](bank-app/src/assets/bank-app-1.JPG) [<img src="bank-app/src/assets/bank-app-2.JPG" width="400px"/>](bank-app/src/assets/bank-app-2.JPG)
 
-<br>
+</br>
+
 ##### Tablet screen:
 
 [<img src="bank-app/src/assets/bank-app-tablet1.JPG" />](bank-app/src/assets/bank-app-tablet1.JPG) [<img src="bank-app/src/assets/bank-app-tablet2.JPG" />](bank-app/src/assets/bank-app-tablet2.JPG)
 
-<br>
-##### Mobile screen: 
+</br>
+
+##### Mobile screen:
 
 [<img src="bank-app/src/assets/bank-app-3.JPG" />](bank-app/src/assets/bank-app-3.JPG) [<img src="bank-app/src/assets/bank-app-6.JPG"/>](bank-app/src/assets/bank-app-6.JPG) [<img src="bank-app/src/assets/bank-app-5.JPG"/>](bank-app/src/assets/bank-app-5.JPG) 
 
 ##### Click the link to see full version of [deployed website.](https://bank-app-cemmertsimsek.vercel.app/)
 
-<hr>
+</hr>
 Cem Mert Şimşek - 2022
