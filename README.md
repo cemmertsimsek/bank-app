@@ -34,20 +34,21 @@ Creating a Full **Responsive**, **Front-End**, **React** app while using and pra
     - **Vite**
 
 ##### Visuals
-
-- on Large screen
+<br>
+Large screen:
+<hr>
 
 [<img src="bank-app/src/assets/bank-app-1.JPG" width="400px"/>](bank-app/src/assets/bank-app-1.JPG) [<img src="bank-app/src/assets/bank-app-2.JPG" width="400px"/>](bank-app/src/assets/bank-app-2.JPG)
 
 <br>
-
-- on Tablet screen
+Tablet screen:
+<hr>
 
 [<img src="bank-app/src/assets/bank-app-tablet1.JPG" />](bank-app/src/assets/bank-app-tablet1.JPG) [<img src="bank-app/src/assets/bank-app-tablet2.JPG" />](bank-app/src/assets/bank-app-tablet2.JPG)
 
 <br>
-
-- on Mobile screen
+Mobile screen:
+<hr> 
 
 [<img src="bank-app/src/assets/bank-app-3.JPG" />](bank-app/src/assets/bank-app-3.JPG) [<img src="bank-app/src/assets/bank-app-6.JPG"/>](bank-app/src/assets/bank-app-6.JPG) [<img src="bank-app/src/assets/bank-app-5.JPG"/>](bank-app/src/assets/bank-app-5.JPG) 
 
