@@ -15,31 +15,25 @@ https://bank-app-cemmertsimsek.vercel.app/
 ## Aim of this project
 Creating a Full **Responsive**, **Front-End**, **React** app while using and practising 3th party tools **Tailwind.css** Also using **Vite** for the first time. 
 
-- #### What Main Steps Included
-    - React.JS Project Architecture
-    - Fundamental CSS Properties
-    - Flex
-    - Tailwind CSS
-    - Complex Gradients
-    - Media Querries
+- #### <ins>What Main Steps Included?
+    - **React.JS** Project Architecture
+    - Fundamental **CSS Properties**
+    - **Flex**
+    - **Tailwind** CSS
+    - Complex **Gradients**
+    - **Media Querries**
 
-
-- #### What Practiced
+- #### <ins>What Practiced?
     - **Arranging the files**
     - Creating **functional components**
     - **Using hooks** & writing **clean code**
     - Tailwind CSS **classes** 
-
         
-- #### Dependencies
+- #### <ins>Dependencies
 
     - **React**
     - **Tailwind CSS**
     - **Vite**
 
-
-
-## Visuals
-
+##### Visuals
 [<img src="bank-app/src/assets/bank-app-1.JPG" width="400px"/>](bank-app/src/assets/bank-app-1.JPG) [<img src="bank-app/src/assets/bank-app-2.JPG" width="400px"/>](bank-app/src/assets/bank-app-2.JPG)
-
