@@ -41,4 +41,4 @@ Creating a Full **Responsive**, **Front-End**, **React** app while using and pra
 
 ## Visuals
 
-
+![](https://github.com/cemmertsimsek/bank-app/blob/master/bank-app/src/assets/bank-app-1.JPG) ![](https://github.com/cemmertsimsek/bank-app/blob/master/bank-app/src/assets/bank-app-2.JPG)
