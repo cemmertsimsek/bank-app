@@ -33,8 +33,7 @@ Creating a Full **Responsive**, **Front-End**, **React** app while using and pra
     - **Tailwind CSS**
     - **Vite**
 
-##### Visuals
-<br>
+## Visuals
 Large screen:
 <hr>
 
